@@ -12,5 +12,5 @@
 * Выполнил Крылов
 * Проверил Литвинов И.В.
  
-$ sdasdsaa
-$ dsadasda
+        $ sdasdsaa
+        $ dsadasda
